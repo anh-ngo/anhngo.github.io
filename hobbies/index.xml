@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobbies on Myopic Corns</title>
+    <link>http://myopiccorns.github.io/hobbies/</link>
+    <description>Recent content in Hobbies on Myopic Corns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2022 12:56:16 -0600</lastBuildDate><atom:link href="http://myopiccorns.github.io/hobbies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anh&#39;s Pottery Corner</title>
+      <link>http://myopiccorns.github.io/hobbies/pottery/pottery/</link>
+      <pubDate>Thu, 02 Jun 2022 12:56:16 -0600</pubDate>
+      
+      <guid>http://myopiccorns.github.io/hobbies/pottery/pottery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

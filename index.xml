@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Myopic Corns</title>
+        <link>http://myopiccorns.github.io/</link>
+        <description>Myopic Corns</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 12:56:16 -0600</lastBuildDate>
+            <atom:link href="http://myopiccorns.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

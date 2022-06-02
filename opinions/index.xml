@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinions on Myopic Corns</title>
+    <link>http://myopiccorns.github.io/opinions/</link>
+    <description>Recent content in Opinions on Myopic Corns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2022 03:36:05 -0600</lastBuildDate><atom:link href="http://myopiccorns.github.io/opinions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Time and Choices</title>
+      <link>http://myopiccorns.github.io/opinions/on_time_and_choices/</link>
+      <pubDate>Thu, 02 Jun 2022 03:36:05 -0600</pubDate>
+      
+      <guid>http://myopiccorns.github.io/opinions/on_time_and_choices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
